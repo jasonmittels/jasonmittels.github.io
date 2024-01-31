@@ -1,3 +1,3 @@
 function test() {
-  alert("you press button!");
+  alert("You pressed the button!");
 }
