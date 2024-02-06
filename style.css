@@ -1,11 +1,10 @@
 p {
   color: green;
+  padding: 25px;
 }
 
 div {
-  color: green;
-  padding: 25px;
-  
+  /* COMMENT: what properties should divs have? */
 }
 
 button {
@@ -14,5 +13,4 @@ button {
 
 body {
   background-color: black;
-  
 }
