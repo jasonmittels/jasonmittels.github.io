@@ -2,10 +2,17 @@ p {
   color: green;
 }
 
+div {
+  color: green;
+  padding: 25px;
+  
+}
+
 button {
   color: blue;
 }
 
 body {
   background-color: black;
+  
 }
