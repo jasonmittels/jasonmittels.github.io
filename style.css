@@ -2,7 +2,7 @@ h2 {
   color: WhiteSmoke;
 }
 
-p {
+p, ul {
   color: green;
   padding: 25px;
 }
