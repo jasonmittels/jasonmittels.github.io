@@ -2,10 +2,16 @@ h2 {
   color: WhiteSmoke;
 }
 
-p, ul {
+p {
   color: green;
   padding: 25px;
 }
+
+li {
+    font-size: 14px;
+    margin-left: 10px;
+    list-style-type: circle;
+ }
 
 div {
   /* COMMENT: what properties should divs have? */
