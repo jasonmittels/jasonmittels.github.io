@@ -1,0 +1,3 @@
+--- USEFUL REFERENCES FOR WEBDEV ---
+CSS COLORS SUPPORTED BY ALL BROWSERS: https://www.w3schools.com/cssref/css_colors.php
+The channel -Web Dev Simplified- has extremely digestable tutorials.

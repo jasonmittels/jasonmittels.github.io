@@ -1,0 +1,29 @@
+h2 {
+  color: WhiteSmoke;
+}
+
+p {
+  color: green;
+  padding: 25px;
+}
+
+ul, li {
+    font-size: 14px;
+    margin-left: 10px;
+    padding-bottom: 50px;
+    list-style-type: circle;
+    color: Crimson;
+ }
+
+div {
+  /* COMMENT: what properties should divs have? */
+}
+
+button {
+  padding: 25px;
+  color: blue;
+}
+
+body {
+  background-color: black;
+}
